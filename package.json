@@ -1,0 +1,18 @@
+{
+  "name": "sa56-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "ลอตเตอรี่ออนไลน์ครับ✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"ลอตเตอรี่ออนไลน์ครับ",
+"หวยผ่านเว็บ",
+"888lottovip",
+"เว็บหวยเศรษฐี",
+"lottovip facebook"
+],
+  "repository": "https://github.com/setteebet/sa56-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
